@@ -1,0 +1,6 @@
+[submodule "Plugins/Test_JsonBP"]
+	path = Plugins/Test_JsonBP
+	url = https://github.com/UPO33/Test_JsonBP.git
+[submodule "Plugins/Test_JwRPC"]
+	path = Plugins/Test_JwRPC
+	url = https://github.com/UPO33/Test_JwRPC.git
